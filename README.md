@@ -15,7 +15,7 @@
 | **Nombre del proyecto:** | ParkManager – Sistema Web de Gestión de Parqueos |
 | **Tipo de aplicación:** | ☐ Escritorio ☑ Web ☐ Móvil ☐ Otro: — |
 | **Lenguaje / entorno de desarrollo:** | Java 17, Apache Tomcat, Maven y Visual Studio Code. |
-| **Repositorio Git (URL):** | Pendiente de creación. |
+| **Repositorio Git (URL):** | https://github.com/SaulT04/ProyectoProgra2 |
 | **Uso de Inteligencia Artificial:** | ☐ No ☑ Sí (asistencia en planificación y desarrollo). |
 
 **Si usas IA, explica brevemente cómo y en qué etapa contribuye:**
