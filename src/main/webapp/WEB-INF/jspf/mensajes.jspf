@@ -1,0 +1,10 @@
+<c:if test="${not empty error}">
+    <div class="alerta alerta-error">
+        <c:out value="${error}" />
+    </div>
+</c:if>
+<c:if test="${not empty mensaje}">
+    <div class="alerta alerta-exito">
+        <c:out value="${mensaje}" />
+    </div>
+</c:if>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ParkManager - ${titulo}</title>
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/estilos.css">
+</head>
+<body>
+<header class="cabecera">
+    <div class="contenedor cabecera-contenido">
+        <div class="marca-bloque">
+            <h1><a class="marca" href="${pageContext.request.contextPath}/">ParkManager</a></h1>
+            <p>Sistema web de gestión de parqueos</p>
+        </div>
+        <nav class="navegacion" aria-label="Navegación principal">
+            <a href="${pageContext.request.contextPath}/">Inicio</a>
+            <a href="${pageContext.request.contextPath}/espacios">Espacios</a>
+            <a href="${pageContext.request.contextPath}/ingreso">Ingreso</a>
+            <a href="${pageContext.request.contextPath}/salida">Salida</a>
+            <a href="${pageContext.request.contextPath}/historial">Historial</a>
+            <a href="${pageContext.request.contextPath}/estadisticas">Estadísticas</a>
+        </nav>
+    </div>
+</header>
+<main class="contenedor">
